@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mukil%20Ganesh%20C&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn&stroke=0047AB&strokeWidth=1" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a33,50:0d1117,75:1a0033,100:0d1117&height=230&section=header&text=Mukil%20Ganesh%20C&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=AI%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Full%20Stack%20Developer&descFontSize=18&descAlignY=63&descAlign=50&descFontColor=00d4ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+intelligent+systems+for+the+real+world;AI+%7C+ML+%7C+Deep+Learning+%7C+Computer+Vision;Turning+data+into+decisions%2C+ideas+into+impact;Open+to+Opportunities+%E2%86%92+Let%27s+connect" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+for+the+real+world+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+LLMs+%7C+MLOps;Turning+raw+data+into+production-grade+AI+%F0%9F%A7%A0;Open+to+collaborate+%E2%86%92+Let%27s+build+something+great" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D4FF?style=for-the-badge&logo=circle&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-0066FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" />
+  <a href="https://github.com/mukilganesh-c"><img src="https://img.shields.io/badge/Open%20to%20Work-00d4ff?style=for-the-badge&logo=circle&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mukil-ganesh-c"><img src="https://img.shields.io/badge/Generative%20AI%20Focus-7c3aed?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20India-0066ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Response%20Within%2024hrs-00d4ff?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukilganesh-c&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/mukilganesh-c?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/mukilganesh-c?label=Stars%20Earned&style=for-the-badge&color=0066ff&labelColor=0d1117&logo=github" />
 </p>
 
 <br/>
@@ -22,30 +25,39 @@
 
 <br/>
 
-## `{ Introduction }`
+<h2 align="center">⟨&nbsp;&nbsp;Introduction&nbsp;&nbsp;⟩</h2>
 
-<table>
+<br/>
+
+<table align="center" width="96%">
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
 <h3>Hey, I'm Mukil Ganesh C 👋</h3>
 
-I'm an **AI/ML Engineer** and **Full Stack Developer** who believes the most powerful systems are the ones that learn, adapt, and create. I build end-to-end intelligent applications — from raw model research to production-grade deployment.
+I'm an **AI/ML Engineer** and **Full-Stack Developer** passionate about building end-to-end intelligent systems — from research and experimentation to production-grade deployment.
 
-My work sits at the intersection of **deep learning**, **computer vision**, and **real-world engineering** — where curiosity meets execution.
+My work lives at the intersection of **Deep Learning**, **Computer Vision**, and **real-world engineering** — where precision meets purpose, and curiosity drives execution.
 
-> _"I don't just write code. I design systems that think."_
+I don't just consume AI research — I implement it, optimise it, and ship it.
+
+<br/>
+
+> *"I don't just write code. I design systems that think."*
 
 </td>
-<td width="45%" valign="top">
+<td width="44%" valign="top">
 
 ```yaml
-name       : Mukil Ganesh C
-role       : AI / ML Engineer
-focus      : Generative AI & Deep Learning
-building   : Intelligent, scalable systems
-mission    : Make AI accessible & impactful
-available  : Open to collaborations
+# mukil.config.yaml
+name        : Mukil Ganesh C
+role        : AI / ML Engineer
+location    : Tamil Nadu, India
+focus       : Generative AI & Deep Learning
+building    : Intelligent, scalable systems
+mission     : Make AI accessible & impactful
+available   : Open to Opportunities
+response    : Within 24 hours
 ```
 
 </td>
@@ -58,83 +70,51 @@ available  : Open to collaborations
 
 <br/>
 
-## `{ About Me }`
+<h2 align="center">⟨&nbsp;&nbsp;About Me&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎓-Education-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>B.E / B.Tech</b><br/>
-Computer Science<br/>
-<sub>AI & ML Specialization</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓_Education-B.E%20%2F%20B.Tech-00d4ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>Computer Science</b><br/>AI & ML Specialization<br/><sub>Currently Pursuing</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📍-Location-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>India</b><br/>
-Tamil Nadu<br/>
-<sub>Available Remotely</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍_Based_In-Tamil%20Nadu%2C%20India-7c3aed?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>India</b><br/>Available Remotely<br/><sub>IST (UTC+5:30)</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🌐-Languages-0066FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>English · Tamil</b><br/>
-Hindi (Basic)<br/>
-<sub>Communication fluent</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐_Languages-English%20·%20Tamil-0066ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>English · Tamil</b><br/>Hindi (Basic)<br/><sub>Fluent in communication</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🔓-Open%20Source-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>Active Contributor</b><br/>
-Projects & Tools<br/>
-<sub>GitHub-first mindset</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔓_Open_Source-Active%20Contributor-00d4ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>GitHub-First Mindset</b><br/>Public by Default<br/><sub>Build in the open</sub>
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/💡-Interests-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-LLMs · Agentic AI<br/>
-Computer Vision<br/>
-<sub>Research & Application</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💡_Interests-LLMs%20·%20Agentic%20AI-7c3aed?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>Research & Application</b><br/>CV · GenAI · MLOps<br/><sub>Where theory meets practice</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📚-Currently%20Learning-0066FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-MLOps · Cloud AI<br/>
-RAG Pipelines<br/>
-<sub>Advanced DL Architectures</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📚_Learning-RAG%20·%20Cloud%20AI-0066ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>Advanced DL Architectures</b><br/>MLOps Infrastructure<br/><sub>Always upskilling</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/⚡-Vision-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-Build AI that<br/>solves real problems<br/>
-<sub>at scale & with ethics</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡_Vision-AI%20for%20Real%20Problems-00d4ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>Scale & Ethics First</b><br/>Accessible AI<br/><sub>Impact over impressiveness</sub>
 </td>
-
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎯-2025%20Goal-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-Ship 3 production<br/>AI products<br/>
-<sub>& contribute to OSS</sub>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_2025_Goal-3%20Production%20AI%20Products-7c3aed?style=flat-square&labelColor=0d1117" /><br/><br/>
+<b>Ship · Learn · Repeat</b><br/>OSS Contributions<br/><sub>Compounding progress daily</sub>
 </td>
-
 </tr>
 </table>
 
@@ -144,112 +124,80 @@ Ship 3 production<br/>AI products<br/>
 
 <br/>
 
-## `{ Tech Stack }`
+<h2 align="center">⟨&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-**Programming Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00D4FF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Programming Languages&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,bash&theme=dark&perline=8" />
 </p>
 
 <br/>
 
-**AI · Machine Learning · Deep Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00D4FF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logo=yolo&logoColor=00FFFF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=7C3AED&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;AI · Machine Learning · Deep Learning&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" />&nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0d1117" />
 </p>
 
 <br/>
 
-**Data & Analytics**
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00D4FF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=7C3AED&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Data & Analytics&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black&labelColor=0d1117" />
 </p>
 
 <br/>
 
-**Backend Development**
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Backend Development&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark&perline=6" />&nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0d1117" />
 </p>
 
 <br/>
 
-**Frontend Development**
-
-<p>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Frontend Development&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts&theme=dark&perline=8" />
 </p>
 
 <br/>
 
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00D4FF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=python&logoColor=7C3AED&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Databases&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=8" />&nbsp;
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00d4ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FAISS-FF6600?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
 </p>
 
 <br/>
 
-**Cloud & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Cloud & DevOps&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux&theme=dark&perline=8" />
 </p>
 
 <br/>
 
-**Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-0d1117?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0d1117&color=0d1117" />
+<h4 align="center">◈ &nbsp;Tools & Platforms&nbsp; ◈</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman,figma&theme=dark&perline=8" />&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=0d1117" />
 </p>
 
 <br/>
@@ -258,51 +206,51 @@ Ship 3 production<br/>AI products<br/>
 
 <br/>
 
-## `{ Skill Matrix }`
+<h2 align="center">⟨&nbsp;&nbsp;Skill Matrix&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
 
 **Machine Learning & AI**
-```
-Python          ████████████████████  95%
-Deep Learning   ██████████████████░░  88%
-Computer Vision ████████████████░░░░  80%
-NLP / LLMs      ███████████████░░░░░  75%
-MLOps           ████████████░░░░░░░░  60%
+```text
+Python              ████████████████████  95%
+Deep Learning       ██████████████████░░  88%
+Computer Vision     ████████████████░░░░  80%
+NLP / LLMs          ███████████████░░░░░  75%
+MLOps               ████████████░░░░░░░░  60%
 ```
 
 **Backend & APIs**
-```
-Flask / FastAPI ████████████████████  90%
-REST API Design █████████████████░░░  85%
-Node.js         ████████████░░░░░░░░  60%
-Databases       ██████████████████░░  88%
-System Design   █████████████░░░░░░░  65%
+```text
+Flask / FastAPI     ████████████████████  90%
+REST API Design     █████████████████░░░  85%
+Node.js             ████████████░░░░░░░░  60%
+Databases           ██████████████████░░  88%
+System Design       █████████████░░░░░░░  65%
 ```
 
 </td>
 <td width="50%" valign="top">
 
 **Frontend & Fullstack**
-```
-HTML / CSS      ███████████████████░  92%
-React           █████████████░░░░░░░  65%
-Tailwind CSS    ██████████████░░░░░░  70%
-TypeScript      ████████████░░░░░░░░  60%
-UI/UX Design    ████████████░░░░░░░░  60%
+```text
+HTML / CSS          ███████████████████░  92%
+React               █████████████░░░░░░░  65%
+Tailwind CSS        ██████████████░░░░░░  70%
+TypeScript          ████████████░░░░░░░░  60%
+UI / UX Design      ████████████░░░░░░░░  60%
 ```
 
 **Cloud & DevOps**
-```
-Docker          ████████████████░░░░  78%
-AWS / GCP       ████████████░░░░░░░░  62%
-CI/CD           ████████████░░░░░░░░  60%
-Kubernetes      █████████░░░░░░░░░░░  45%
-Terraform       ███████░░░░░░░░░░░░░  35%
+```text
+Docker              ████████████████░░░░  78%
+AWS / GCP           ████████████░░░░░░░░  62%
+CI / CD Pipelines   ████████████░░░░░░░░  60%
+Kubernetes          █████████░░░░░░░░░░░  45%
+Infrastructure      ███████░░░░░░░░░░░░░  35%
 ```
 
 </td>
@@ -315,50 +263,50 @@ Terraform       ███████░░░░░░░░░░░░░  35
 
 <br/>
 
-## `{ GitHub Analytics }`
+<h2 align="center">⟨&nbsp;&nbsp;GitHub Analytics&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukilganesh&show_icons=true&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=7C3AED&border_color=30363d&bg_color=0d1117&hide_border=false&rank_icon=github&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukilganesh-c&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed&border_color=30363d&bg_color=0d1117&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilganesh&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&border_color=30363d&bg_color=0d1117&langs_count=8&hide_border=false" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilganesh-c&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&border_color=30363d&bg_color=0d1117&langs_count=8&hide_border=false" height="170" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mukilganesh&theme=transparent&background=0d1117&border=30363d&stroke=00D4FF&ring=7C3AED&fire=0066FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=7C3AED&dates=8b949e&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=mukilganesh-c&theme=transparent&background=0d1117&border=30363d&stroke=00d4ff&ring=7c3aed&fire=0066ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=7c3aed&dates=8b949e&hide_border=false" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukilganesh&bg_color=0d1117&color=00D4FF&line=7C3AED&point=0066FF&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukilganesh-c&bg_color=0d1117&color=00d4ff&line=7c3aed&point=0066ff&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=6" width="96%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukilganesh&theme=onestar&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mukilganesh-c&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukilganesh&theme=transparent" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukilganesh-c&theme=transparent" width="96%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukilganesh&theme=transparent" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukilganesh-c&theme=transparent" height="155" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukilganesh&theme=transparent" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukilganesh-c&theme=transparent" height="155" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukilganesh&theme=transparent" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukilganesh-c&theme=transparent" height="155" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukilganesh&theme=transparent&utcOffset=5.30" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukilganesh-c&theme=transparent&utcOffset=5.30" height="155" />
 </p>
 
 <br/>
@@ -367,40 +315,40 @@ Terraform       ███████░░░░░░░░░░░░░  35
 
 <br/>
 
-## `{ Developer Dashboard }`
+<h2 align="center">⟨&nbsp;&nbsp;Developer Dashboard&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
 
 ### ◈ Status Board
 
-| Dimension | State |
-|-----------|-------|
+| Signal | State |
+|--------|-------|
 | 🟢 Availability | Open to Opportunities |
 | 🔵 Current Role | Student · Builder · Researcher |
 | 🟣 Focus Area | Generative AI · LLMs · MLOps |
-| 🔷 Current Goal | Ship 3 production-ready AI products |
+| 🔷 Current Goal | Ship 3 production AI products |
 | 💡 Learning | RAG · Agentic AI · Cloud AI |
-| 🤝 Open To | Collaborations · Research · Freelance |
-| 📬 Response Time | Within 24 hours |
+| 🤝 Open To | Collabs · Research · Freelance |
+| 📬 Response | Within 24 hours |
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Repository Overview
+### ◈ Repository Pulse
 
 | Metric | Value |
 |--------|-------|
-| 🗂 Total Repos | Updating... |
-| ⭐ Total Stars | Updating... |
-| 👥 Followers | Updating... |
-| 🌐 Following | Updating... |
-| 🔀 Pull Requests | Updating... |
-| 🐛 Issues Raised | Updating... |
-| 🔓 Open Source PRs | Updating... |
+| 🗂 Total Repos | Auto-updates via GitHub |
+| ⭐ Total Stars | Auto-updates via GitHub |
+| 👥 Followers | Auto-updates via GitHub |
+| 🌐 Following | Auto-updates via GitHub |
+| 🔀 Pull Requests | Auto-updates via GitHub |
+| 🐛 Issues Raised | Auto-updates via GitHub |
+| 🔓 OSS Contributions | Actively growing |
 
 </td>
 </tr>
@@ -408,37 +356,35 @@ Terraform       ███████░░░░░░░░░░░░░  35
 
 <br/>
 
-<table width="100%">
+<table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Active Focus
+### ◈ Active Q3 2025 Priorities
 
 ```
-Q3 2025 Priorities
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ▸ RAG pipeline for document intelligence
-  ▸ MLOps infrastructure on AWS
-  ▸ Agentic AI workflows with LangChain
-  ▸ Computer Vision production system
-  ▸ Contributing to Hugging Face ecosystem
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▸  RAG pipeline for doc intelligence
+  ▸  MLOps infrastructure on AWS
+  ▸  Agentic AI workflows — LangChain
+  ▸  Computer Vision production system
+  ▸  Hugging Face ecosystem contributions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Current Streak
+### ◈ Daily Engineering Habits
 
 ```
-Daily Habits
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ▸ Code every single day
-  ▸ Read 1 research paper / week
-  ▸ Build & ship, not just learn
-  ▸ Document everything publicly
-  ▸ Help others in the community
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▸  Code every single day
+  ▸  Read 1 research paper per week
+  ▸  Build & ship — not just learn
+  ▸  Document everything publicly
+  ▸  Help others in the community
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
@@ -451,38 +397,36 @@ Daily Habits
 
 <br/>
 
-## `{ Featured Projects }`
+<h2 align="center">⟨&nbsp;&nbsp;Featured Projects&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI Resume Screening System
-
 > Intelligent hiring pipeline that parses, ranks, and evaluates resumes using NLP and semantic similarity — eliminating manual shortlisting.
 
-**Stack:** `Python` `NLP` `Transformers` `Flask` `PostgreSQL`
+**Stack:** `Python` · `NLP` · `Transformers` · `Flask` · `PostgreSQL`
 
-**Status:** ![Status](https://img.shields.io/badge/Status-In%20Progress-00D4FF?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-In%20Progress-00d4ff?style=flat-square&labelColor=0d1117)
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 Medical AI Assistant
+> Symptom analysis and intelligent triage chatbot built with LLMs and curated medical knowledge bases for early-stage diagnostic support.
 
-> Symptom analysis and intelligent triage chatbot built with LLMs and medical knowledge bases to assist early-stage diagnosis.
+**Stack:** `Python` · `LangChain` · `HuggingFace` · `FastAPI` · `React`
 
-**Stack:** `Python` `LangChain` `HuggingFace` `FastAPI` `React`
+![Status](https://img.shields.io/badge/Status-Building-7c3aed?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Building-7C3AED?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 </tr>
@@ -491,29 +435,27 @@ Daily Habits
 <td width="50%" valign="top">
 
 ### 🛰️ Satellite Image Analysis
+> Deep learning pipeline for semantic segmentation of satellite imagery — detecting land use, deforestation, and urban expansion at scale.
 
-> Deep learning pipeline for semantic segmentation of satellite imagery — detecting land use, deforestation, and urban expansion.
+**Stack:** `Python` · `PyTorch` · `YOLO` · `OpenCV` · `GCP`
 
-**Stack:** `Python` `PyTorch` `YOLO` `OpenCV` `GCP`
+![Status](https://img.shields.io/badge/Status-Completed-00d4ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 RNN Text Generator
+> Character-level and word-level RNN trained to generate contextually coherent text sequences — a deep dive into generative AI fundamentals.
 
-> Character-level and word-level RNN trained to generate contextually coherent text sequences — demonstrates generative AI fundamentals.
+**Stack:** `Python` · `TensorFlow` · `Keras` · `LSTM` · `NumPy`
 
-**Stack:** `Python` `TensorFlow` `Keras` `LSTM` `NumPy`
+![Status](https://img.shields.io/badge/Status-Completed-00d4ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 </tr>
@@ -522,29 +464,27 @@ Daily Habits
 <td width="50%" valign="top">
 
 ### 👁️ Computer Vision Suite
+> Real-time CV applications — object detection, face recognition, gesture control, and scene understanding — all in one modular framework.
 
-> Collection of real-time CV applications: object detection, face recognition, gesture control, and scene understanding.
+**Stack:** `Python` · `OpenCV` · `YOLO` · `TensorFlow` · `MediaPipe`
 
-**Stack:** `Python` `OpenCV` `YOLO` `TensorFlow` `MediaPipe`
+![Status](https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Flask AI Projects
+> Suite of production-grade Flask apps integrating ML models — from sentiment analysis APIs to image classification REST endpoints.
 
-> Suite of production-grade Flask applications integrating ML models — from sentiment analysis APIs to image classification endpoints.
+**Stack:** `Python` · `Flask` · `Scikit-learn` · `Docker` · `REST`
 
-**Stack:** `Python` `Flask` `Scikit-learn` `Docker` `REST API`
+![Status](https://img.shields.io/badge/Status-Maintained-7c3aed?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Maintained-7C3AED?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 </tr>
@@ -552,30 +492,28 @@ Daily Habits
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Deep Learning Research Projects
+### 📊 Deep Learning Research Lab
+> Experiments across CNNs, Transformers, GANs, and Autoencoders — with documented results, ablation studies, and rigorous model comparisons.
 
-> Experiments across CNNs, Transformers, GANs, and autoencoders — with documented results, ablation studies, and model comparisons.
+**Stack:** `Python` · `PyTorch` · `TensorFlow` · `W&B` · `Jupyter`
 
-**Stack:** `Python` `PyTorch` `TensorFlow` `W&B` `Jupyter`
+![Status](https://img.shields.io/badge/Status-Ongoing-0066ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Ongoing-0066FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 ML Algorithm Implementations
+> Clean, from-scratch implementations of core ML algorithms — from linear regression to SVMs, and decision trees to ensemble methods.
 
-> Clean, from-scratch implementations of core ML algorithms — linear regression to SVMs, decision trees to ensemble methods.
+**Stack:** `Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
 
-**Stack:** `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+![Status](https://img.shields.io/badge/Status-Reference-00d4ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Reference-00D4FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 </tr>
@@ -584,28 +522,26 @@ Daily Habits
 <td width="50%" valign="top">
 
 ### 🌟 Personal Portfolio Website
+> Minimalist, dark-mode portfolio showcasing projects and research — built for speed, elegance, and memorable first impressions.
 
-> Minimalist, dark-mode portfolio showcasing projects, research, and contact — built for speed, elegance, and first impressions.
+**Stack:** `React` · `Tailwind CSS` · `Vercel` · `Framer Motion`
 
-**Stack:** `React` `Tailwind CSS` `Vercel` `Framer Motion`
+![Status](https://img.shields.io/badge/Status-Live-00d4ff?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Live-00D4FF?style=flat-square&labelColor=0d1117)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
-[![Demo](https://img.shields.io/badge/Live-Demo-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0066ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mukilganesh-c?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 More Coming Soon...
+### 🔬 Next Project — Stealth Mode
+> Something big is being built. Follow the GitHub profile to get notified the moment it drops.
 
-> The next project is in stealth mode. Follow the repo to get notified when it drops.
+**Areas:** `Agentic AI` · `LLM Fine-tuning` · `Multimodal Systems`
 
-**Areas:** `Agentic AI` `LLM Fine-tuning` `Multimodal AI`
+![Status](https://img.shields.io/badge/Status-Stealth%20Mode-7c3aed?style=flat-square&labelColor=0d1117)
 
-**Status:** ![Status](https://img.shields.io/badge/Status-Stealth%20Mode-7C3AED?style=flat-square&labelColor=0d1117)
-
-[![Follow](https://img.shields.io/badge/GitHub-Follow%20for%20Updates-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh)
+[![Follow](https://img.shields.io/badge/Follow%20for%20Updates-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukilganesh-c)
 
 </td>
 </tr>
@@ -617,89 +553,70 @@ Daily Habits
 
 <br/>
 
-## `{ Achievements }`
+<h2 align="center">⟨&nbsp;&nbsp;Achievements&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/🏆-Achievement-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>AI Project Builder</b><br/>
+<h2>🏆</h2>
+<b>AI Product Builder</b><br/>
 <sub>Shipped multiple end-to-end<br/>AI systems independently</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/⭐-Achievement-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>⭐</h2>
 <b>Open Source Contributor</b><br/>
 <sub>Active contributor to<br/>public repositories</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/💡-Achievement-0066FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>🔥</h2>
 <b>Consistent Coder</b><br/>
 <sub>Daily GitHub contributions<br/>across multiple domains</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/🧠-Achievement-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>🧠</h2>
 <b>Multi-Domain Engineer</b><br/>
-<sub>AI · Backend · Frontend<br/>Cloud · Data — all in one</sub>
+<sub>AI · Backend · Frontend<br/>Cloud · Data — all unified</sub>
 <br/><br/>
 </td>
-
 </tr>
-
 <tr>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/📈-Achievement-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>📈</h2>
 <b>Problem Solver</b><br/>
 <sub>Active on LeetCode<br/>& HackerRank platforms</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/🔬-Achievement-0066FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
-<b>Research Oriented</b><br/>
+<h2>🔬</h2>
+<b>Research-Oriented</b><br/>
 <sub>Reads & implements<br/>ML research papers</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/🚀-Achievement-00D4FF?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>🚀</h2>
 <b>Self-Taught Expert</b><br/>
-<sub>Mastered advanced AI<br/>through continuous learning</sub>
+<sub>Mastered advanced AI<br/>through relentless learning</sub>
 <br/><br/>
 </td>
-
-<td align="center" width="200">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/🌐-Achievement-7C3AED?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<h2>🌐</h2>
 <b>Full-Stack AI Dev</b><br/>
-<sub>Model → API → UI →<br/>Deploy, end to end</sub>
+<sub>Model → API → UI → Deploy<br/>end to end, every time</sub>
 <br/><br/>
 </td>
-
 </tr>
 </table>
 
@@ -709,51 +626,56 @@ Daily Habits
 
 <br/>
 
-## `{ Experience Timeline }`
+<h2 align="center">⟨&nbsp;&nbsp;Experience Timeline&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 ```
-2020 ──────────────────────────────────────────────────────────
+2020 ─────────────────────────────────────────────────────────────────
         │
-        ▼  🎓  Started B.E / B.Tech in Computer Science
-              Began foundational programming: C, C++, Python
-              First exposure to algorithms & data structures
+        ▼  🎓  Started B.E / B.Tech — Computer Science
+              ▸ Foundational programming: C, C++, Python
+              ▸ Algorithms, data structures & problem solving
+              ▸ First glimpse of what software can build
 
-2021 ──────────────────────────────────────────────────────────
+2021 ─────────────────────────────────────────────────────────────────
         │
         ▼  🤖  Discovered Machine Learning
-              Completed Andrew Ng's ML Course
-              Built first ML models: linear regression → SVM
+              ▸ Completed Andrew Ng's ML Specialization
+              ▸ Built first models: linear regression → SVM → trees
+              ▸ Fell in love with data-driven systems
 
-2022 ──────────────────────────────────────────────────────────
+2022 ─────────────────────────────────────────────────────────────────
         │
         ▼  🧠  Deep Learning Deep Dive
-              Mastered CNNs, RNNs, LSTMs with TensorFlow & Keras
-              First computer vision projects: classification & detection
+              ▸ Mastered CNNs, RNNs, LSTMs — TensorFlow & Keras
+              ▸ First computer vision projects: classification & detection
+              ▸ Trained models from scratch on real datasets
 
-2023 ──────────────────────────────────────────────────────────
+2023 ─────────────────────────────────────────────────────────────────
         │
         ▼  🌐  Full-Stack AI Development
-              Integrated ML models into Flask & FastAPI backends
-              Learned React, built complete AI-powered web apps
-              First open source contributions
+              ▸ Integrated ML models into Flask & FastAPI backends
+              ▸ Learned React — built complete AI-powered web apps
+              ▸ First open source contributions pushed to GitHub
 
-2024 ──────────────────────────────────────────────────────────
+2024 ─────────────────────────────────────────────────────────────────
         │
         ▼  🚀  Generative AI & LLMs
-              Worked with HuggingFace, LangChain, RAG pipelines
-              Explored agentic AI, prompt engineering, fine-tuning
-              Deployed models on AWS & GCP
+              ▸ Worked with HuggingFace, LangChain, RAG pipelines
+              ▸ Explored agentic AI, prompt engineering, fine-tuning
+              ▸ Deployed models to AWS & GCP production environments
 
-2025 ──────────────────────────────────────────────────────────
+2025 ─────────────────────────────────────────────────────────────────
         │
-        ▼  ⚡  Building & Shipping
-              Production AI systems & MLOps infrastructure
-              Computer vision at scale · Medical AI · Resume AI
-              Seeking impactful roles in AI / ML Engineering
+        ▼  ⚡  Building & Shipping at Scale
+              ▸ Production AI systems & MLOps infrastructure
+              ▸ Medical AI · Resume AI · Satellite CV at scale
+              ▸ Seeking impactful roles in AI / ML Engineering
 
-NOW  ──────────────────────────────────────────────────────────
+NOW  ─────────────────────────────────────────────────────────────────
+        │
+        ▼  🎯  Open to Opportunities — Let's Connect
 ```
 
 <br/>
@@ -762,53 +684,54 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Learning Roadmap }`
+<h2 align="center">⟨&nbsp;&nbsp;Learning Roadmap&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Completed
+### ✅ Completed & Shipped
 
-- [x] Python — Advanced
+- [x] Python — Advanced Level
 - [x] Machine Learning Foundations
-- [x] Deep Learning (CNN, RNN, LSTM)
+- [x] Deep Learning — CNN, RNN, LSTM
 - [x] Computer Vision with OpenCV & YOLO
-- [x] NLP Fundamentals
-- [x] Flask & FastAPI Development
+- [x] NLP Fundamentals & Text Processing
+- [x] Flask & FastAPI — Production APIs
 - [x] REST API Design & Integration
 - [x] SQL & NoSQL Databases
-- [x] Git & GitHub Workflows
+- [x] Git & GitHub Workflows — Advanced
 - [x] Docker & Containerization
-- [x] Scikit-learn & XGBoost
-- [x] Data Analysis with Pandas & NumPy
+- [x] Scikit-learn, XGBoost & Ensemble Methods
+- [x] Data Analysis — Pandas & NumPy
 - [x] React Basics & Frontend Integration
-- [x] HuggingFace Transformers
-- [x] LangChain Fundamentals
+- [x] HuggingFace Transformers Pipeline
+- [x] LangChain — Chains, Agents, Memory
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 In Progress
+### 🔵 Currently In Progress
 
 - [ ] Advanced RAG Pipeline Architecture
-- [ ] MLOps with MLflow & DVC
+- [ ] MLOps with MLflow, DVC & ZenML
 - [ ] AWS SageMaker & GCP Vertex AI
 - [ ] Kubernetes for ML Workloads
-- [ ] LLM Fine-tuning & RLHF
+- [ ] LLM Fine-tuning — LoRA, QLoRA, RLHF
 - [ ] Multimodal AI Systems
 
-### ⬜ Upcoming
+### ⬜ On the Horizon
 
-- [ ] Agentic AI Frameworks (AutoGen, CrewAI)
-- [ ] Distributed Training at Scale
+- [ ] Agentic AI — AutoGen, CrewAI, LangGraph
+- [ ] Distributed Training at Scale (DeepSpeed)
 - [ ] AI Safety & Alignment Research
 - [ ] Rust for Performance-Critical ML
-- [ ] Edge AI & TensorFlow Lite
+- [ ] Edge AI & TFLite Deployment
 - [ ] Graph Neural Networks
 - [ ] Diffusion Model Architecture
+- [ ] Reinforcement Learning from Scratch
 
 </td>
 </tr>
@@ -820,84 +743,53 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Currently Exploring }`
+<h2 align="center">⟨&nbsp;&nbsp;Currently Exploring&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table>
+<table align="center" width="96%">
 <tr>
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=00D4FF&labelColor=0d1117" />
-<br/><br/>
-<b>Large Language Models</b><br/>
-<sub>Architecture · Fine-tuning<br/>Alignment · Inference</sub>
-<br/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-00d4ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" /><br/><br/>
+Architecture · Fine-tuning<br/>Alignment · Inference Optimisation<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/GenAI-0d1117?style=for-the-badge&logo=google&logoColor=7C3AED&labelColor=0d1117" />
-<br/><br/>
-<b>Generative AI</b><br/>
-<sub>Diffusion · GANs<br/>Multimodal · Creative AI</sub>
-<br/>
+<img src="https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /><br/><br/>
+Diffusion Models · GANs<br/>Multimodal · Creative AI<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=0066FF&labelColor=0d1117" />
-<br/><br/>
-<b>Deep Learning</b><br/>
-<sub>Transformers · Attention<br/>Advanced Architectures</sub>
-<br/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0066ff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" /><br/><br/>
+Transformers · Attention<br/>Advanced Architectures<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=00D4FF&labelColor=0d1117" />
-<br/><br/>
-<b>MLOps</b><br/>
-<sub>Pipelines · Monitoring<br/>CI/CD for ML</sub>
-<br/>
+<img src="https://img.shields.io/badge/MLOps-00d4ff?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0d1117" /><br/><br/>
+Pipelines · Monitoring<br/>CI/CD for Machine Learning<br/><br/>
 </td>
 </tr>
-
 <tr>
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=7C3AED&labelColor=0d1117" />
-<br/><br/>
-<b>Computer Vision</b><br/>
-<sub>Detection · Segmentation<br/>3D Vision · NeRF</sub>
-<br/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7c3aed?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" /><br/><br/>
+Detection · Segmentation<br/>3D Vision · NeRF<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0d1117?style=for-the-badge&logo=chainlink&logoColor=0066FF&labelColor=0d1117" />
-<br/><br/>
-<b>Agentic AI</b><br/>
-<sub>AutoGen · LangGraph<br/>Tool-using Agents</sub>
-<br/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0066ff?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117" /><br/><br/>
+AutoGen · LangGraph<br/>Tool-Using Agents<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Cloud%20AI-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00D4FF&labelColor=0d1117" />
-<br/><br/>
-<b>Cloud AI</b><br/>
-<sub>SageMaker · Vertex AI<br/>Serverless Inference</sub>
-<br/>
+<img src="https://img.shields.io/badge/Cloud%20AI-00d4ff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" /><br/><br/>
+SageMaker · Vertex AI<br/>Serverless Inference<br/><br/>
 </td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/RAG%20Systems-0d1117?style=for-the-badge&logo=pinecone&logoColor=7C3AED&labelColor=0d1117" />
-<br/><br/>
-<b>RAG Pipelines</b><br/>
-<sub>Vector DBs · Retrieval<br/>Knowledge Graphs</sub>
-<br/>
+<img src="https://img.shields.io/badge/RAG%20Systems-7c3aed?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d1117" /><br/><br/>
+Vector DBs · Retrieval<br/>Knowledge Graphs<br/><br/>
 </td>
 </tr>
 </table>
@@ -908,63 +800,46 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Statistics }`
+<h2 align="center">⟨&nbsp;&nbsp;Statistics&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="96%">
 <tr>
-<td align="center" width="150">
-<br/>
-<h1>☕</h1>
-<h2>∞</h2>
+<td align="center" width="16%">
+<h2>☕</h2>
+<h3>∞</h3>
 <sub>Cups of Coffee</sub>
-<br/><br/>
 </td>
-
-<td align="center" width="150">
-<br/>
-<h1>🗓</h1>
-<h2>5+</h2>
+<td align="center" width="16%">
+<h2>🗓</h2>
+<h3>5+</h3>
 <sub>Years Coding</sub>
-<br/><br/>
 </td>
-
-<td align="center" width="150">
-<br/>
-<h1>📦</h1>
-<h2>20+</h2>
+<td align="center" width="16%">
+<h2>📦</h2>
+<h3>20+</h3>
 <sub>Repositories</sub>
-<br/><br/>
 </td>
-
-<td align="center" width="150">
-<br/>
-<h1>🔁</h1>
-<h2>500+</h2>
+<td align="center" width="16%">
+<h2>🔁</h2>
+<h3>500+</h3>
 <sub>Commits</sub>
-<br/><br/>
 </td>
-
-<td align="center" width="150">
-<br/>
-<h1>🧩</h1>
-<h2>200+</h2>
+<td align="center" width="16%">
+<h2>🧩</h2>
+<h3>200+</h3>
 <sub>Problems Solved</sub>
-<br/><br/>
 </td>
-
-<td align="center" width="150">
-<br/>
-<h1>📖</h1>
-<h2>1000+</h2>
+<td align="center" width="16%">
+<h2>📖</h2>
+<h3>1000+</h3>
 <sub>Learning Hours</sub>
-<br/><br/>
 </td>
 </tr>
 </table>
 
-> _All numbers are living estimates — updated as I ship, solve, and learn._
+<p align="center"><sub>Living estimates — updated as I ship, solve, and learn.</sub></p>
 
 <br/>
 
@@ -972,23 +847,23 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Quote }`
+<h2 align="center">⟨&nbsp;&nbsp;Quote&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 <p align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The best way to predict the future is to invent it."          ║
-║                                                          ― Alan Kay  ║
-║                                                                  ║
-║   "Intelligence is not knowing all the answers.                  ║
-║    It's knowing how to find them."                               ║
-║                                               ― Mukil Ganesh C   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    "The best way to predict the future is to invent it."          ║
+║                                                      — Alan Kay   ║
+║                                                                   ║
+║    "Intelligence is not knowing all the answers.                  ║
+║     It is knowing how to find them — and build them."             ║
+║                                             — Mukil Ganesh C      ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </p>
@@ -999,48 +874,38 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Connect With Me }`
+<h2 align="center">⟨&nbsp;&nbsp;Connect With Me&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 <p align="center">
-
-  <a href="https://github.com/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" />
+  <a href="https://github.com/mukilganesh-c" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/mukil-ganesh-c" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://mukilganesh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="mailto:mukilganeshc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://mukilganesh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="mailto:mukilganesh@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" />
-  </a>
-
 </p>
 
 <p align="center">
-
-  <a href="https://leetcode.com/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://hackerrank.com/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0d1117" />
-  </a>
-  &nbsp;
+  <a href="https://leetcode.com/u/mukilganesh" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/mukilganesh" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=161b22" />
+  </a>&nbsp;
   <a href="https://twitter.com/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117" />
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=161b22" />
+  </a>&nbsp;
   <a href="https://discord.com/users/mukilganesh" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=161b22" />
   </a>
-
 </p>
 
 <br/>
@@ -1049,17 +914,15 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Visitor Counter }`
+<h2 align="center">⟨&nbsp;&nbsp;Visitor Counter&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mukilganesh/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=mukilganesh-c&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<p align="center">
-  <sub>Thanks for stopping by — you're one of many. Come back often.</sub>
-</p>
+<p align="center"><sub>Every visit matters. Thanks for stopping by.</sub></p>
 
 <br/>
 
@@ -1067,19 +930,53 @@ NOW  ─────────────────────────
 
 <br/>
 
-## `{ Contribution Snake }`
+<h2 align="center">⟨&nbsp;&nbsp;Contribution Snake&nbsp;&nbsp;⟩</h2>
 
 <br/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukilganesh/mukilganesh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukilganesh/mukilganesh/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/mukilganesh/mukilganesh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukilganesh-c/mukilganesh-c/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukilganesh-c/mukilganesh-c/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mukilganesh-c/mukilganesh-c/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
-> _To enable the contribution snake, set up [GitHub Actions for snake generation](https://github.com/Platane/snk) in your profile repo._
+<details>
+<summary><b>⚙️ Enable the Snake — Click to expand setup instructions</b></summary>
+
+<br/>
+
+1. In your profile repo (`mukilganesh-c/mukilganesh-c`), create `.github/workflows/snake.yml`
+2. Paste this:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow manually once from the **Actions** tab — the snake SVG will generate and the image above will appear live.
+
+</details>
 
 <br/>
 
@@ -1088,18 +985,16 @@ NOW  ─────────────────────────
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thank%20You%20for%20Visiting&fontSize=30&fontColor=ffffff&fontAlignY=62&desc=Let%27s%20build%20something%20remarkable%20together&descAlignY=85&descSize=14&animation=fadeIn" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a33,50:0d1117,75:1a0033,100:0d1117&height=160&section=footer&text=Thank%20You%20for%20Visiting&fontSize=28&fontColor=ffffff&fontAlignY=55&desc=Let%27s%20build%20something%20remarkable%20together&descAlignY=78&descFontSize=14&descFontColor=00d4ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+by+Mukil+Ganesh+C;Every+line+of+code+is+a+step+forward.;Open+to+work+%E2%80%94+reach+out+anytime." alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+by+Mukil+Ganesh+C;Every+line+of+code+is+a+step+forward.;Open+to+work+%E2%80%94+reach+out+anytime." />
 </p>
-
-<br/>
 
 <p align="center">
   <sub>
-    ⭐ <b>Star</b> repositories that inspire you &nbsp;·&nbsp;
+    ⭐ <b>Star</b> repos that help you grow &nbsp;·&nbsp;
     🔀 <b>Fork</b> what you want to build on &nbsp;·&nbsp;
     🤝 <b>Connect</b> if you want to collaborate
   </sub>
